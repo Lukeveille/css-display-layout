@@ -1,0 +1,65 @@
+/* Elements */
+
+body, header, footer {
+    margin: 0;
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    text-align: center;
+}
+header h1{
+    background-color: #333333;
+    margin: 0;
+    padding: 16px;
+}
+body > footer {
+    background-color: black;
+    padding: 18px;
+    font-size: 14px;
+}
+h2 {
+    color: black;
+    background-color: #8dfdd2;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: left;
+    padding: 16px;
+    font-weight: 500;
+}
+ul {
+    margin-top: 1px;
+    margin-bottom: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+li {
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+    display: inline-block;
+    background-color: #d3d3d3;
+    padding: 9px;
+}
+li a{
+    color: white;
+    text-decoration: none;
+}
+section footer {
+    background-color: #fed400;
+    color: #000;
+    padding: 6px;
+}
+section {
+    display: inline-block;
+    margin-bottom: 0.83em;
+}
+b {
+    text-decoration: underline;
+}
+main {
+    max-width: 1200px;
+    margin: auto;
+}
