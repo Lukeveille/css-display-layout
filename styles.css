@@ -1,5 +1,4 @@
 /* Elements */
-
 body, header, footer {
     margin: 0;
     text-align: center;
@@ -58,6 +57,7 @@ section {
 }
 b {
     text-decoration: underline;
+    text-decoration-color: #fed400;
 }
 main {
     max-width: 1200px;
